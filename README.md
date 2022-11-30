@@ -7,14 +7,14 @@ Term: Fall 2022
 + Team #
 + Projec title: Lorem ipsum dolor sit amet
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Leon, Alix 
+	+ Li, Xinyun 
+	+ Cai, Jinyang 
+	+ Podias, John 
+	+ Tu, Zhongcheng 
++ Project summary: In this project, we implement two algorithms: Learning fair representations (LFR) and Fairness-aware Classifier with Prejudice Remover Regularizer (PR) on compas-two-years dataset. We compare two algorithms' performance on dataset by accuracy, discrimination and calibration. 
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: Xinyun Li codes implement the LFR algorithm and Alix Leon code and implement the PR algorithms. Jinyang Cai designed the evalutaion metrics and perform the data cleaning with John Podias. Xinyun Li and Jingyang Cai wrote the presentation files together.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
