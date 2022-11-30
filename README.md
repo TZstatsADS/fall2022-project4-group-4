@@ -4,8 +4,8 @@
 
 Term: Fall 2022
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 4
++ Project title: Learning fair representations (LFR) vs. Fairness-aware Classifier with Prejudice Remover Regularizer (PR)
 + Team members
 	+ Leon, Alix 
 	+ Li, Xinyun 
