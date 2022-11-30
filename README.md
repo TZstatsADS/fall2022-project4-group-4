@@ -12,7 +12,7 @@ Term: Fall 2022
 	+ Cai, Jinyang 
 	+ Podias, John 
 	+ Tu, Zhongcheng 
-+ Project summary: In this project, we implement two algorithms: Learning fair representations (LFR) and Fairness-aware Classifier with Prejudice Remover Regularizer (PR) on compas-two-years dataset. We compare two algorithms' performance on dataset by accuracy, discrimination and calibration. 
++ Project summary: In this project, we implement two algorithms: Learning fair representations (LFR) and Fairness-aware Classifier with Prejudice Remover Regularizer (PR) on the compas-two-years dataset. This dataset contains information on defendants in Broward County from 2013 and 2014. Our analysis is limited to data for Caucasian and African-American defendants. We compare two algorithms' performance on the dataset by accuracy, discrimination and calibration based on the target variable, two_year_recid, which indicates if a defendant was arrested again within two years.
 	
 **Contribution statement**: Xinyun Li codes implement the LFR algorithm and Alix Leon code and implement the PR algorithms. Jinyang Cai designed the evalutaion metrics and perform the data cleaning with John Podias. Xinyun Li and Jingyang Cai wrote the presentation files together.
 
