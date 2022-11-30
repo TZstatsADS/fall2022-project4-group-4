@@ -17,4 +17,4 @@ Team members: Xinyun Li , Alix Leon, John Podias, Jinyang Cai, Zhongcheng Tu
 
 Summary: In this project, we implement two Algorithm LRF and PR onto compas-dataset and compare their result by three metrics(accuracy,discrimination and calibration)
 
-[Contribution Statement] Xinyun Li code and implement Algorithm1(LRF) and Alix Leon code and implement Algorithm2(PR).Jingyang Cai designed the evaluation of algorithm performance. John Podias and Jingyang Cai clean and mulnipulate the dataset. Jingyang Cai and Xinyun Li prepare the presentation slides.
+[Contribution Statement] Xinyun Li code and implement Algorithm1(LRF). Alix Leon and Jingyang Cai code and implement Algorithm2(PR).Jingyang Cai designed the evaluation of algorithm performance. John Podias and Jingyang Cai clean and mulnipulate the dataset. Jingyang Cai and Xinyun Li prepare the presentation slides.
